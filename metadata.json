@@ -1,0 +1,5 @@
+{
+  "name": "GlowKin",
+  "description": "Plateforme de services de beauté à domicile à Kinshasa. Connectez-vous avec les meilleures coiffeuses et maquilleuses professionnelles.",
+  "requestFramePermissions": ["geolocation"]
+}
